@@ -1,0 +1,13 @@
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos_intermediario\src\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.deps.json
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos_intermediario\src\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos_intermediario\src\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.pdb
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos_intermediario\src\Infraestrutura\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos_intermediario\src\Infraestrutura\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos_intermediario\src\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csproj.AssemblyReference.cache
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos_intermediario\src\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos_intermediario\src\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos_intermediario\src\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.AssemblyInfo.cs
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos_intermediario\src\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos_intermediario\src\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csproj.CopyComplete
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos_intermediario\src\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos_intermediario\src\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.pdb

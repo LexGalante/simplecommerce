@@ -1,0 +1,14 @@
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos\bin\Debug\netcoreapp3.1\exemplos.exe
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos\bin\Debug\netcoreapp3.1\exemplos.deps.json
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos\bin\Debug\netcoreapp3.1\exemplos.runtimeconfig.json
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos\bin\Debug\netcoreapp3.1\exemplos.runtimeconfig.dev.json
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos\bin\Debug\netcoreapp3.1\exemplos.dll
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos\bin\Debug\netcoreapp3.1\exemplos.pdb
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos\obj\Debug\netcoreapp3.1\exemplos.csproj.AssemblyReference.cache
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos\obj\Debug\netcoreapp3.1\exemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos\obj\Debug\netcoreapp3.1\exemplos.AssemblyInfoInputs.cache
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos\obj\Debug\netcoreapp3.1\exemplos.AssemblyInfo.cs
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos\obj\Debug\netcoreapp3.1\exemplos.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos\obj\Debug\netcoreapp3.1\exemplos.dll
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos\obj\Debug\netcoreapp3.1\exemplos.pdb
+C:\Users\alex_\Projetos\simplecommerce\pocs\exemplos\obj\Debug\netcoreapp3.1\exemplos.genruntimeconfig.cache

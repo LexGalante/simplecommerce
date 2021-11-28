@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d5bcf373-eccd-4212-8734-16f99102133c": {
+      "ProjectGuid": "d5bcf373-eccd-4212-8734-16f99102133c",
+      "DisplayName": "Clientes.Console",
+      "ColorIndex": 0
+    },
+    "c489f1f1-e694-4efa-bafb-04d2c28d0053": {
+      "ProjectGuid": "c489f1f1-e694-4efa-bafb-04d2c28d0053",
+      "DisplayName": "Clientes.Dominio",
+      "ColorIndex": 1
+    },
+    "a4a6e80b-364c-4845-a348-553e0361f955": {
+      "ProjectGuid": "a4a6e80b-364c-4845-a348-553e0361f955",
+      "DisplayName": "Clientes.Infraestrutura",
+      "ColorIndex": 2
+    },
+    "0009e41e-dfd6-4f8a-9db1-6c4ff04b24a2": {
+      "ProjectGuid": "0009e41e-dfd6-4f8a-9db1-6c4ff04b24a2",
+      "DisplayName": "Clientes.Aplicacao",
+      "ColorIndex": 3
+    },
+    "99ac87a4-d8b8-47fd-9f91-2a5110a6df6c": {
+      "ProjectGuid": "99ac87a4-d8b8-47fd-9f91-2a5110a6df6c",
+      "DisplayName": "Aplicacao",
+      "ColorIndex": 4
+    },
+    "b5a775db-2920-4ee4-b792-fc6612305db1": {
+      "ProjectGuid": "b5a775db-2920-4ee4-b792-fc6612305db1",
+      "DisplayName": "Dominio",
+      "ColorIndex": 5
+    },
+    "255864da-7d0b-4ddd-a46c-b31adc599c94": {
+      "ProjectGuid": "255864da-7d0b-4ddd-a46c-b31adc599c94",
+      "DisplayName": "Infraestrutura",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
